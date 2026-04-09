@@ -63,8 +63,8 @@ func main() {
 ![Screenshot Output Soal 1](https://github.com/aydinzafrul21/109082500036_Aydin-Zafrul/blob/main/WEEK4/output/output-1.png)
 [Kita perlu menginputkan bilangan a, b, c, dan d. Program akan menghitung nilai permutasi a dgn c dan dilanjut menghitung kombinasi a dgn c, begitu juga dengan bilangan b dgn d. Permutasi dihitung dgn menggunakan faktorial terlebih dahulu di dalam subprogram. Setelah itu, program akan menampilkan output hasil permutasi dan kombinasi.]
 
-### 3. [Soal 3]
-#### soal3.go
+### 2. [Soal 2]
+#### soal2.go
 
 ```go
 package main
@@ -109,5 +109,5 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Soal 3](https://github.com/aydinzafrul21/109082500036_Aydin-Zafrul/blob/main/WEEK4/output/output-2.png)
+![Screenshot Output Soal 2](https://github.com/aydinzafrul21/109082500036_Aydin-Zafrul/blob/main/WEEK4/output/output-2.png)
 [Kita perlu menginputkan nama peserta yg kemudian diikuti dgn durasi peserta menyelesaikan soal. Program akan menjumlahkan setiap waktu yg diinputkan sampai 8 soal. Program akan terus berjalan hingga kita menginputkan nama peserta dengan kata "Selesai". Setelah itu, program akan menampilkan hasil output pemenangnya.]
