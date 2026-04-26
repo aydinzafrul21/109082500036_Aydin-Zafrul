@@ -261,4 +261,4 @@ func main() {
 
 ##### Output 
 ![Screenshot Output Soal 4](https://github.com/aydinzafrul21/109082500036_Aydin-Zafrul/blob/main/WEEK9/output/output4.png)
-[Program ini dirancang untuk memproses sekumpulan karakter dalam array dengan batas maksimal NMAX 127. Subprogram isiArray mengisi elemen hingga ditemukan karakter titik, sementara balikanArray mengubah urutan isi array menggunakan teknik pertukaran elemen (swapping) dari kedua ujung ke tengah. Selain membalikkan teks, program ini juga menyertakan fungsi palindrom untuk memvalidasi apakah susunan karakter terbaca sama dari depan maupun belakang, seperti pada kata "KATAK"]
+[Program ini dirancang untuk memproses sekumpulan karakter dalam array dengan batas maksimal NMAX 127. Subprogram isiArray mengisi elemen hingga ditemukan karakter titik, sementara balikanArray mengubah urutan isi array menggunakan teknik pertukaran elemen (swapping) dari kedua ujung ke tengah. Selain membalikkan teks, program ini juga menyertakan fungsi palindrom untuk memvalidasi apakah susunan karakter terbaca sama dari depan maupun belakang, seperti pada kata "KATAK".]
